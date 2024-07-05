@@ -1,2 +1,2 @@
 # IBMdatasci
-copursera courses for IBM data science certification and UC Boulder degree.
+coursera courses for IBM data science certification and UC Boulder degree.
